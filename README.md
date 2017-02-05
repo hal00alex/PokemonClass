@@ -1,5 +1,5 @@
 # PokemonClass
-Using a Pokemon team to review Ch4-6 in EE422X
+Using a Pokemon team to review Ch4-6 in EE422C
 #MainPokemon, Pokemon, and Trainer Java Classes cover: 
 - Syntax 
 - Inheritance 
